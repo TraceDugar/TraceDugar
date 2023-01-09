@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TraceDugar
-- 👀 I’m interested in Javascript, SQL, UX Design, Audio, Video, Graphic Design. Interested in learning: C++, Juce, UX Desgin.
+- 👀 I’m interested in Javascript, SQL, UI Design, Audio, Video, Graphic Design. Interested in learning: C++, Juce, UX Desgin.
 - 🌱 I’m currently learning Javascript, React
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/tracedugar/
