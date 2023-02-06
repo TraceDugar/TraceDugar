@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=gif+banner+react&rlz=1C1CHBD_en-GBUS1020US1021&sxsrf=AJOqlzUFsqd-QjTiqrjG3YtTXbFMJuIYew:1675717647599&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiT5IPZ5oH9AhV7ADQIHYKXD5UQ_AUoAXoECAEQAw&biw=1920&bih=937&dpr=1#imgrc=EvHsYN2ljHOuRM)]
+[![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-card-1.gif)]
 
 <h1 align="center">Hi 👋, I'm Trace Dugar</h1>
 <h3 align="center">Full-Stack Developer</h3>
