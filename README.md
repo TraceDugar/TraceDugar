@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tracedugar&label=Profile%20views&color=0e75b6&style=flat" alt="tracedugar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tracedugar" alt="tracedugar" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
 - 🔭 I’m currently working on [VFT Bug Tracker](https://github.com/chjkt-bug-tracker)
 
