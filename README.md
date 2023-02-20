@@ -24,7 +24,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tracedugar&show_icons=true&locale=en" alt="tracedugar" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tracedugar&" alt="tracedugar" /></p>
 
 
 <!---
