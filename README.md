@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mantine and Material UI**
 
-- 📝 I regularly write articles on [UpSkilling, life-long learning.](UpSkilling, life-long learning.)
+- 📝 I regularly write articles on **UpSkilling, life-long learning.**
 
 - 💬 Ask me about **REACT**
 
