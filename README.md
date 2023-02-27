@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding Your Polaris](https://medium.com/@tracedugar/finding-your-polaris-7837921c6112?source=rss-cfd15fcb9aa8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
