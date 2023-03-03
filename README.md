@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Skill Set Pyramids](https://medium.com/@tracedugar/building-skill-pyramids-d37eb1c9750a?source=rss-cfd15fcb9aa8------2)
 - [Finding Your Polaris](https://medium.com/@tracedugar/finding-your-polaris-7837921c6112?source=rss-cfd15fcb9aa8------2)
 <!-- BLOG-POST-LIST:END -->
 
