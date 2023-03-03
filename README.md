@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **REACT**
 
-- ⚡ Fun fact **I am a music producer, who enjoys playing video Games!**
+- ⚡ Fun fact **I am a music producer, who enjoys playing video games!**
 
 
 <h3 align="left">Connect with me:</h3>
