@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You Cannot Build Giza Alone](https://medium.com/@tracedugar/you-cannot-build-giza-alone-c4dd88d755b7?source=rss-cfd15fcb9aa8------2)
 - [Making Yourself Stand Out by becoming a “Wonder of the World.”](https://medium.com/@tracedugar/making-yourself-stand-out-by-becoming-a-wonder-of-the-world-9622b33141e3?source=rss-cfd15fcb9aa8------2)
 - [Building Skill Set Pyramids](https://medium.com/@tracedugar/building-skill-pyramids-d37eb1c9750a?source=rss-cfd15fcb9aa8------2)
 - [Finding Your Polaris](https://medium.com/@tracedugar/finding-your-polaris-7837921c6112?source=rss-cfd15fcb9aa8------2)
