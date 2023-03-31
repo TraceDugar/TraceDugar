@@ -25,7 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraceDugar&layout=compact)
 
-### Blogs posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [You Cannot Build Giza Alone](https://medium.com/@tracedugar/you-cannot-build-giza-alone-c4dd88d755b7?source=rss-cfd15fcb9aa8------2)
 - [Making Yourself Stand Out by becoming a “Wonder of the World.”](https://medium.com/@tracedugar/making-yourself-stand-out-by-becoming-a-wonder-of-the-world-9622b33141e3?source=rss-cfd15fcb9aa8------2)
