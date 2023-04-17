@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **XLRX Business Site**
 
-- 🌱 I’m currently learning **Mantine and Material UI**
+- 🌱 I’m currently learning **CSS via Linkedin Learning**
 
 - 📝 I regularly write articles on **UpSkilling, life-long learning.**
 
 - 💬 Ask me about **REACT**
 
-- ⚡ Fun fact **I am a music producer, who enjoys playing video games!**
+- ⚡ Fun fact **I am a person who is told that they are an out of the box thinker who solves problems in the ways other do not think about.**
 
 
 <h3 align="left">Connect with me:</h3>
