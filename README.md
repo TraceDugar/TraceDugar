@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Trace Dugar</h1>
 <h3 align="center">Growth Oriented Software Developer</h3>
 
-- 🔭 I’m currently working on **XLRX Business Site**
+- 🔭 I’m currently working on **Vega**
 
 - 🌱 I’m currently learning **CSS via Linkedin Learning**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **REACT**
 
-- ⚡ Fun fact **I am a person who is told that they are an out of the box thinker who solves problems in the ways other do not think about.**
+- ⚡ Fun fact **I am a very passionate about learning new things everyday!**
 
 
 <h3 align="left">Connect with me:</h3>
