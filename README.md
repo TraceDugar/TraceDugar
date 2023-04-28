@@ -27,6 +27,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Final Key is Consistency.](https://medium.com/@tracedugar/the-final-key-is-consistency-d199da1ada75?source=rss-cfd15fcb9aa8------2)
 - [You Cannot Build Giza Alone](https://medium.com/@tracedugar/you-cannot-build-giza-alone-c4dd88d755b7?source=rss-cfd15fcb9aa8------2)
 - [Making Yourself Stand Out by becoming a “Wonder of the World.”](https://medium.com/@tracedugar/making-yourself-stand-out-by-becoming-a-wonder-of-the-world-9622b33141e3?source=rss-cfd15fcb9aa8------2)
 - [Building Skill Set Pyramids](https://medium.com/@tracedugar/building-skill-pyramids-d37eb1c9750a?source=rss-cfd15fcb9aa8------2)
