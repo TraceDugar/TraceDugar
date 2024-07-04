@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="table_component" role="region" tabindex="0">
+<div align="center" class="table_component" role="region" tabindex="0">
 <table>
     <thead>
         <tr>
@@ -59,7 +59,7 @@
 </div>
  </p>
 
-GitHub Project Languages:
+<h3 align="Left">GitHub Project Languages:</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraceDugar&layout=compact)
 
 ### Blog Posts
