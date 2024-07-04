@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Trace Dugar</h1>
 <h3 align="center">Growth Oriented Software Developer</h3>
 
+<p align="center">
+
 - 🔭 I’m currently working on Cisco CCST Certification
 
 - 🌱 I’m currently learning cisco networking
@@ -11,14 +13,15 @@
 
 - ⚡ Fun fact **I am a very passionate about learning new things everyday!**
 
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/tracedugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tracedugar" height="30" width="40" /></a>
 <a href="https://medium.com/@tracedugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tracedugar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center" class="table_component" role="region" tabindex="0">
 <table>
     <thead>
@@ -61,7 +64,12 @@
 
 <h3 align="Left">GitHub Project Languages:</h3>
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraceDugar&layout=compact)
+    
+</div>
+
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
