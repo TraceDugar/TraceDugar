@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Trace Dugar</h1>
 <h3 align="center">Growth Oriented Software Developer</h3>
 
-- 🔭 I’m currently working on Security+ Certification
+- 🔭 I’m currently working on Cisco CCST Certification
 
-- 🌱 I’m currently learning Python via PluralSight
+- 🌱 I’m currently learning cisco networking
 
-- 📝 I regularly write articles on **UpSkilling, life-long learning.**
+- 📜 Certifications **Code Fellows FulStack JavaScript, Google Career IT & Cybersecurity, CompTIA Security+**
 
 - ⚡ Fun fact **I am a very passionate about learning new things everyday!**
 
