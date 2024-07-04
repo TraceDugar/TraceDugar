@@ -26,7 +26,7 @@
             <th>OS Knowledge</th>
             <th>Programming Languages</th>
             <th>Enterprise</th>
-            <th>security Tasks</th>
+            <th>Security Tasks</th>
         </tr>
     </thead>
     <tbody>
@@ -43,7 +43,7 @@
             <td>UTM Endpoint Review</td>
         </tr>
         <tr>
-            <td>MAC os<</td>
+            <td>Mac OS</td>
             <td>SQL</td>
             <td>Ring Central</td>
             <td>End User Training</td>
@@ -56,7 +56,6 @@
         </tr>
     </tbody>
 </table>
-<div style="margin-top:8px">Made with <a href="https://www.htmltables.io/" target="_blank">HTML Tables</a></div>
 </div>
  </p>
 
