@@ -60,6 +60,7 @@
  </p>
 
 <h3 align="Left">GitHub Project Languages:</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraceDugar&layout=compact)
 
 ### Blog Posts
