@@ -32,12 +32,12 @@
     <tbody>
         <tr>
             <td>Microsoft</td>
-            <td>Linux</td>
+            <td>HTML / CSS</td>
             <td>MAC os</td>
             <td></td>
         </tr>
         <tr>
-            <td>HTML / CSS</td>
+            <td>Linux</td>
             <td>JavaScript</td>
             <td>SQL</td>
             <td>Python</td>
