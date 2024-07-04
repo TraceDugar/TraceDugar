@@ -19,49 +19,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<style>
-.table_component {
-    overflow: auto;
-    width: 100%;
-}
-
-.table_component table {
-    border: 1px solid #dededf;
-    height: 100%;
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-    border-spacing: 1px;
-    text-align: center;
-}
-
-.table_component caption {
-    caption-side: top;
-    text-align: center;
-}
-
-.table_component th {
-    border: 1px solid #dededf;
-    background-color: #0e30dd;
-    color: #fafafa;
-    padding: 5px;
-}
-
-.table_component td {
-    border: 1px solid #dededf;
-    padding: 5px;
-}
-
-.table_component tr:nth-child(even) td {
-    background-color: #a6a6a6;
-    color: #000000;
-}
-
-.table_component tr:nth-child(odd) td {
-    background-color: #ffffff;
-    color: #000000;
-}
-</style>
 <div class="table_component" role="region" tabindex="0">
 <table>
     <caption>Table 1</caption>
