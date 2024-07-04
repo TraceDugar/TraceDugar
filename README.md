@@ -25,34 +25,34 @@
         <tr>
             <th>OS Knowledge</th>
             <th>Programming Languages</th>
-            <th>Header 3</th>
-            <th>Header 4</th>
+            <th>Enterprise</th>
+            <th>security Tasks</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Microsoft</td>
             <td>HTML / CSS</td>
-            <td>MAC os</td>
-            <td></td>
+            <td>Azure AD</td>
+            <td>Risky Users</td>
         </tr>
         <tr>
             <td>Linux</td>
             <td>JavaScript</td>
+            <td>Freshworks</td>
+            <td>UTM Endpoint Review</td>
+        </tr>
+        <tr>
+            <td>MAC os<</td>
             <td>SQL</td>
+            <td>Ring Central</td>
+            <td>End User Training</td>
+        </tr>
+        <tr>
+            <td></td>
             <td>Python</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Confluence</td>
+            <td>KnowBe4 Administration</td>
         </tr>
     </tbody>
 </table>
