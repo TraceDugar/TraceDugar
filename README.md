@@ -1,12 +1,12 @@
 ![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-card-1.gif)
 
 <h1 align="center">Hi 👋, I'm Trace Dugar</h1>
-<h3 align="center">Growth Oriented Software Developer</h3>
+<h3 align="center">Growth Oriented IT Professional</h3>
 
 <p align="center">- 🔭 I’m currently working on Cisco CCST Certification</p>
-<p align="center">- 🌱 I’m currently learning cisco networking</p>
-<p align="center">- 📜 Certifications **Code Fellows FulStack JavaScript, Google Career IT & Cybersecurity, CompTIA Security+**</p>
-<p align="center">- ⚡ Fun fact **I am a very passionate about learning new things everyday!**</p>
+<p align="center">- 🌱 I am currently learning Cisco networking</p>
+<p align="center">- 📜 Certifications: Code Fellows FulStack JavaScript, Google Career IT & Cybersecurity, CompTIA Security+</p>
+<p align="center">- ⚡ Fun fact: I am a very passionate about learning new things everyday!</p>
 
 <div> </div>
 
