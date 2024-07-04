@@ -21,27 +21,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <div class="table_component" role="region" tabindex="0">
 <table>
-    <caption>Table 1</caption>
     <thead>
         <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
+            <th>OS Knowledge</th>
+            <th>Programming Languages</th>
             <th>Header 3</th>
             <th>Header 4</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Microsoft</td>
+            <td>Linux</td>
+            <td>MAC os</td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>HTML / CSS</td>
+            <td>JavaScript</td>
+            <td>SQL</td>
+            <td>Python</td>
         </tr>
         <tr>
             <td></td>
