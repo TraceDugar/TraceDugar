@@ -3,20 +3,21 @@
 <h1 align="center">Hi 👋, I'm Trace Dugar</h1>
 <h3 align="center">Growth Oriented Software Developer</h3>
 
-<p align="center">- 🔭 I’m currently working on Cisco CCST Certification
+<p align="center">- 🔭 I’m currently working on Cisco CCST Certification</p>
+<p align="center">- 🌱 I’m currently learning cisco networking</p>
+<p align="center">- 📜 Certifications **Code Fellows FulStack JavaScript, Google Career IT & Cybersecurity, CompTIA Security+**</p>
+<p align="center">- ⚡ Fun fact **I am a very passionate about learning new things everyday!**</p>
 
-- 🌱 I’m currently learning cisco networking
-
-- 📜 Certifications **Code Fellows FulStack JavaScript, Google Career IT & Cybersecurity, CompTIA Security+**
-
-- ⚡ Fun fact **I am a very passionate about learning new things everyday!**</p>
 <div> </div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tracedugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tracedugar" height="30" width="40" /></a>
 <a href="https://medium.com/@tracedugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tracedugar" height="30" width="40" /></a>
 </p>
+
 <div> </div>
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" class="table_component" role="region" tabindex="0">
 <table>
@@ -59,13 +60,17 @@
  </p>
 
 <h3 align="center">GitHub Project Languages:</h3>
+
 <div> </div>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraceDugar&layout=compact)
     
 </div>
+
 <div> </div>
+
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Final Key is Consistency.](https://medium.com/@tracedugar/the-final-key-is-consistency-d199da1ada75?source=rss-cfd15fcb9aa8------2)
